@@ -1,0 +1,30 @@
+h4{
+    color: crimson;
+}
+.copy_right_footer{
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 2;
+    text-align: center;
+}
+
+body{
+    background: dimgrey;
+}
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    color: black;
+    text-shadow: 2px;
+}
+img:hover{
+    border-radius: 70px;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: brown;
+}
